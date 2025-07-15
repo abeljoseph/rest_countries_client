@@ -226,4 +226,3 @@ class TestAPI:
 
         assert "CAN" in cioc_list
         assert "MEX" in cioc_list
-
